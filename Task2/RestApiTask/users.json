@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": 1,
+    "name": "Vaishnavi",
+    "email": "vaishnavi@gmail.com",
+    "address": {
+      "city": "Pune"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "address": {
+      "city": "Mumbai"
+    }
+  }
+]

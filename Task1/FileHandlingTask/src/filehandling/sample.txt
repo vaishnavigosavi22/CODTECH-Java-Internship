@@ -1,0 +1,3 @@
+Hello CODTECH Internship
+This is Java File Handling Task
+File modified successfully!
