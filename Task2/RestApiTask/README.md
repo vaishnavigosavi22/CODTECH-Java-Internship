@@ -1,6 +1,20 @@
 # Task 2: Java REST API Client
 
-## CODTECH Internship Task
+
+*COMPANY*: CODTECH Internship Task
+
+*NAME*: VAISHNAVI GOSAVI
+
+*INTERN ID*:CTIS0605
+
+*DOMAIN NAME*: JAVA PRPGRAMMING
+
+*DURATION*: 12 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
+# DESCRIPTION
 
 This Java application demonstrates consuming and parsing JSON data
 and displaying it in a structured format.
