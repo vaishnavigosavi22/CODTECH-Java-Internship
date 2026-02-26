@@ -1,5 +1,18 @@
 # CODTECH Java Internship Tasks
 
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: VAISHNAVI GOSAVI
+
+*INTERN ID*:CTIS0605
+
+*DOMAIN NAME*: JAVA PRPGRAMMING
+
+*DURATION*: 12 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
 This repository contains all four Java internship tasks completed
 as part of the CODTECH Internship Program.
 
@@ -35,3 +48,4 @@ scoring logic.
 
 ## Author
 Vaishnavi
+
