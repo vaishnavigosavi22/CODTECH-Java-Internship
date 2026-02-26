@@ -1,4 +1,4 @@
-# Task 2: Java REST API Client
+# Java REST API Client
 
 
 *COMPANY*: CODTECH Internship Task
